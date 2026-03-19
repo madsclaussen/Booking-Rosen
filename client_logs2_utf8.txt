@@ -1,0 +1,75 @@
+﻿client-1  | [0m[32mTask[0m [0m[36mdev[0m vite dev "--host"
+client-1  | Ôû▓ [WARNING] Cannot find base config file "./.svelte-kit/tsconfig.json" [tsconfig.json]
+client-1  | 
+client-1  |     jsconfig.json:2:12:
+client-1  |       2 Ôöé   "extends": "./.svelte-kit/tsconfig.json",
+client-1  |         ÔòÁ              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+client-1  | 
+client-1  | 10:50:29ÔÇ»AM [vite] (client) Forced re-optimization of dependencies
+client-1  | 
+client-1  |   VITE v7.3.1  ready in 602 ms
+client-1  | 
+client-1  |   Ô×£  Local:   http://localhost:5173/
+client-1  |   Ô×£  Network: http://172.19.0.4:5173/
+client-1  | 
+client-1  | [1;31m[404] GET /todos[0m
+client-1  | 
+client-1  | [1;31m[500] GET /calender[0m
+client-1  | TypeError: (0 , __vite_ssr_import_1__.default) is not a function
+client-1  |     at eval (src/routes/calender/+page.svelte, <anonymous>:61:37)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _page (src/routes/calender/+page.svelte, <anonymous>:19:13)
+client-1  |     at eval (.svelte-kit/generated/root.svelte, <anonymous>:74:20)
+client-1  |     at eval (src/routes/+layout.svelte, <anonymous>:24:4)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _layout (src/routes/+layout.svelte, <anonymous>:12:13)
+client-1  | 
+client-1  | [1;31m[500] GET /calender[0m
+client-1  | TypeError: (0 , __vite_ssr_import_1__.default) is not a function
+client-1  |     at eval (src/routes/calender/+page.svelte, <anonymous>:61:37)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _page (src/routes/calender/+page.svelte, <anonymous>:19:13)
+client-1  |     at eval (.svelte-kit/generated/root.svelte, <anonymous>:74:20)
+client-1  |     at eval (src/routes/+layout.svelte, <anonymous>:24:4)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _layout (src/routes/+layout.svelte, <anonymous>:12:13)
+client-1  | 
+client-1  | [1;31m[500] GET /calender[0m
+client-1  | TypeError: (0 , __vite_ssr_import_1__.default) is not a function
+client-1  |     at eval (src/routes/calender/+page.svelte, <anonymous>:61:37)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _page (src/routes/calender/+page.svelte, <anonymous>:19:13)
+client-1  |     at eval (.svelte-kit/generated/root.svelte, <anonymous>:74:20)
+client-1  |     at eval (src/routes/+layout.svelte, <anonymous>:24:4)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _layout (src/routes/+layout.svelte, <anonymous>:12:13)
+client-1  | 
+client-1  | [1;31m[500] GET /calender[0m
+client-1  | TypeError: (0 , __vite_ssr_import_1__.default) is not a function
+client-1  |     at eval (src/routes/calender/+page.svelte, <anonymous>:61:37)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _page (src/routes/calender/+page.svelte, <anonymous>:19:13)
+client-1  |     at eval (.svelte-kit/generated/root.svelte, <anonymous>:74:20)
+client-1  |     at eval (src/routes/+layout.svelte, <anonymous>:24:4)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _layout (src/routes/+layout.svelte, <anonymous>:12:13)
+client-1  | 
+client-1  | [1;31m[500] HEAD /calender[0m
+client-1  | TypeError: (0 , __vite_ssr_import_1__.default) is not a function
+client-1  |     at eval (src/routes/calender/+page.svelte, <anonymous>:61:37)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _page (src/routes/calender/+page.svelte, <anonymous>:19:13)
+client-1  |     at eval (.svelte-kit/generated/root.svelte, <anonymous>:74:20)
+client-1  |     at eval (src/routes/+layout.svelte, <anonymous>:24:4)
+client-1  |     at Renderer.child (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:231:18)
+client-1  |     at Renderer.component (node_modules/.deno/svelte@5.54.0/node_modules/svelte/src/internal/server/renderer.js, <anonymous>:336:22)
+client-1  |     at _layout (src/routes/+layout.svelte, <anonymous>:12:13)
